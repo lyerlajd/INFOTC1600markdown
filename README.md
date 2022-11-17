@@ -1,4 +1,6 @@
-%Apes: The Cutting Edge
+% Apes: The Cutting Edge
+% By James Lyerla
+% 11/16/22
 
 **[Using Tools](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/UsingTools.md)**
 
