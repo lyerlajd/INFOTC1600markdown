@@ -1,9 +1,14 @@
 # Apes: The Cutting Edge
+## By James Lyerla
 
-**[Using Tools](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/UsingTools.md)**
+###**Introduction**
+blah blah blah
 
-**[Inter-Species Play](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/InterSpeciesPlay.md)**
+###**[Using Tools](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/UsingTools.md)**
+blah blah blah
 
+###**[Inter-Species Play](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/InterSpeciesPlay.md)**
+blah blah blah
 
  
 list of 'Using Tools' checked sources:
