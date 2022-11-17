@@ -9,7 +9,6 @@ list of unchecked sources:
   * [These monkeys are 3,000 years into their own 'Stone Age'](https://www.nationalgeographic.com/science/article/capuchin-monkeys-used-stone-tools-3000-years-oldest-outside-africa)
   * [It turns out that chimpanzees and gorillas can form lasting friendships](https://www.npr.org/2022/11/11/1135887754/chimpanzees-gorillas-relationships-nouabale-ndoki-park)
   * [Chimps And Gorillas Seen Hanging Together In The Wild, And We Wish We Were Invited](https://www.sciencealert.com/chimps-and-gorillas-seen-hanging-together-in-the-wild-and-we-wish-we-were-invited)
-  * [Why Chimps and Gorillas Form Rainforest Friendships](https://www.nytimes.com/2022/10/11/science/gorillas-chimps-friends.html)
   * [Using Technology to Study Primate Cognition](https://www.lpzoo.org/science-project/using-technology-to-study-primate-cognition/)
   * [Wild chimpanzees scaffold youngsters’ learning in a high-tech community](https://www.pnas.org/doi/10.1073/pnas.1920430117)
   * [The Chimp That Learned Sign Language](https://www.npr.org/2008/05/28/90516132/the-chimp-that-learned-sign-language)
@@ -19,3 +18,7 @@ list of unchecked sources:
 list of 'Using Tools' checked sources:
 
 list of 'Inter-Species Play' checked sources:
+
+
+list of new york times (unusable) sources:
+  * [Why Chimps and Gorillas Form Rainforest Friendships](https://www.nytimes.com/2022/10/11/science/gorillas-chimps-friends.html)
