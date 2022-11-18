@@ -34,3 +34,7 @@ Kanzi is a bonobo who learned to communicate using lexigrams instead of sign lan
 
 ## Conclustion?
 my thoughts blah blah
+
+------------
+## **Source Article:**
+* [Six Talking Apes](https://www.smithsonianmag.com/science-nature/six-talking-apes-48085302/)
