@@ -28,11 +28,25 @@ Some extra facts from the article:
 
 Viki was a chimpanzee who got the closest to spoken language. She learned 4 spoken words total (mama, papa, cup, and up). Because of the anatomy of apes, human language is extremely difficult to replicate. She was able to learn this much because she was treated like a human and raised at the home of Keith and Catherine Hayes. Her life unfortunately ended quite early at only the age of 7, so it's possible she would have been able to learn how to say even more words.
 
-### Washoe
+### Washoe:
+
+Washoe was the first ape to be taught sign language. She learned about 250 signs and could put them together in small combinations. Washoe also had a child, Loulis, who learned some signs from his mother. This made him the first ape to learn sign language from another ape.
+
 ### Nim
+
+fldsksf
+
 ### Chantek
+
+sfsdkjl
+
 ### Koko
+
+fskldfsd
+
 ### Kanzi
+
+fklsadjfl
 
 ## Conclustion?
 my thoughts blah blah
