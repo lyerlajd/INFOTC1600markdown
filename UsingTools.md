@@ -26,6 +26,5 @@ Some extra facts from the article:
 my thoughts blah blah
 
 ------------
-## **Sources:**
+## **Source Article:**
 * [These monkeys are 3,000 years into their own 'Stone Age'](https://www.nationalgeographic.com/science/article/capuchin-monkeys-used-stone-tools-3000-years-oldest-outside-africa)
-* [Six Talking Apes](https://www.smithsonianmag.com/science-nature/six-talking-apes-48085302/)
