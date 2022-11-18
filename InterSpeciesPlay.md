@@ -1,6 +1,6 @@
 # **Language**
 
-[main page](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/README.md)
+link back to the [main page](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/README.md)
 
 It is known that many animals have some sort of ability to communicate with each other, but using actual language is a different story. The article this page summarizes introduces six different apes who learned some form of language to where they could communicate with humans. This allows us as humans to have a deeper understanding of the intelligence of apes, and more broadly primates as a whole.
 
