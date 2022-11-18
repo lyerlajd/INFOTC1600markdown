@@ -1,6 +1,6 @@
 # Using Tools
 
-link back to **[main page](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/README.md)**
+link back to [**main page**](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/README.md)
 
 A new site, described in *Nature Ecology & Evolution*, was discovered in the Serra da Capivara National Park in Brazil. A record of capuchin monkey tool-use has been discovered dating back 3,000 years. This discovery makes the site the oldest archaeological site of non-human tool use outside of the African continent. While there are older sites in Africa, the site in Serra da Capivara shows variations over time in how tools are used. 
 
