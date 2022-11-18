@@ -24,13 +24,15 @@ Some extra facts from the article:
 
 ## **Summary of “Six Talking Apes”:**
 
-* Viki:
-*   fkladfs
-* Washoe
-* Nim
-* Chantek
-* Koko
-* Kanzi
+### Viki: 
+
+Viki was a chimpanzee who got the closest to spoken language. She learned 4 spoken words total (mama, papa, cup, and up). Because of the anatomy of apes, human language is extremely difficult to replicate. She was able to learn this much because she was treated like a human and raised at the home of Keith and Catherine Hayes. Her life unfortunately ended quite early at only the age of 7, so it's possible she would have been able to learn how to say even more words.
+
+### Washoe
+### Nim
+### Chantek
+### Koko
+### Kanzi
 
 ## Conclustion?
 my thoughts blah blah
