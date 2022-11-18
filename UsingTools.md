@@ -16,4 +16,4 @@ list of 'Using Tools' checked sources:
 
 ------------
 ## **Sources**
-[@Greshko, Michael. “These Monkeys Are 3,000 Years into Their Own 'Stone Age'.” Science, National Geographic, 3 May 2021, https://www.nationalgeographic.com/science/article/capuchin-monkeys-used-stone-tools-3000-years-oldest-outside-africa. ]
+Greshko, Michael. “These Monkeys Are 3,000 Years into Their Own 'Stone Age'.” Science, National Geographic, 3 May 2021, https://www.nationalgeographic.com/science/article/capuchin-monkeys-used-stone-tools-3000-years-oldest-outside-africa. 
