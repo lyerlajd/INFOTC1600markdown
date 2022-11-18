@@ -10,7 +10,7 @@ A new site, described in *Nature Ecology & Evolution*, was discovered in the Ser
 
 ![](https://images.newscientist.com/wp-content/uploads/2016/07/11160047/gettyimages-485848365.jpg?width=778)
 
-| <b>[Monkey stone tools in Brazil pre-date discovery of Americas](https://www.newscientist.com/article/2096664-monkey-stone-tools-in-brazil-pre-date-discovery-of-americas/)</b>|
+Image from [Monkey stone tools in Brazil pre-date discovery of Americas](https://www.newscientist.com/article/2096664-monkey-stone-tools-in-brazil-pre-date-discovery-of-americas/)
 
 >"What is really interesting about the ability to conduct archaeological excavations on primate tool-use sites is that we as a species are not unique in having a   really fine-grained and detailed archaeological record,” says study coauthor Tomos Proffitt, a postdoctoral fellow at University College London. “This capuchin     excavation shows that this species of primate in Brazil has its own individual archaeological record; they have their own antiquity to their tool use.”
     
