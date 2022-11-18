@@ -22,11 +22,15 @@ Some extra facts from the article:
 * Several birds also use tools
 * Chimpanzees have used 'spears' to hunt small mammals
 
-## **Summary of “Using Technology to Study Primate Cognition”:**
-
 ## **Summary of “Six Talking Apes”:**
 
-## **Summary of “Why Koko the Gorilla Mattered”:**
+* Viki:
+*   fkladfs
+* Washoe
+* Nim
+* Chantek
+* Koko
+* Kanzi
 
 ## Conclustion?
 my thoughts blah blah
@@ -34,6 +38,4 @@ my thoughts blah blah
 ------------
 ## **Sources:**
 * [These monkeys are 3,000 years into their own 'Stone Age'](https://www.nationalgeographic.com/science/article/capuchin-monkeys-used-stone-tools-3000-years-oldest-outside-africa)
-* [Using Technology to Study Primate Cognition](https://www.lpzoo.org/science-project/using-technology-to-study-primate-cognition/)
 * [Six Talking Apes](https://www.smithsonianmag.com/science-nature/six-talking-apes-48085302/)
-* [Why Koko the Gorilla Mattered](https://www.nationalgeographic.com/animals/article/gorillas-koko-sign-language-culture-animals)
