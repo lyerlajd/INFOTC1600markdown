@@ -19,8 +19,8 @@ Having a greater understanding of how tool use changes over time for capuchins c
 While the stones have changed sizes and even the foods the capuchins eat have varied, not all of the researchers believe this shows signs of advancement. It is stressed that while capuchins can use stones as tools, they still have not made some of the major advancements hominids did like using thin pieces of stone to cut things.
 
 Some extra facts from the article:
-    * Several birds also use tools
-    * Chimpanzees have used 'spears' to hunt small mammals
+* Several birds also use tools
+* Chimpanzees have used 'spears' to hunt small mammals
 
 ## **Summary of “Using Technology to Study Primate Cognition”:**
 
