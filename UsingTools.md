@@ -1,4 +1,4 @@
-# Using Tools
+# **Using Tools**
 
 link back to [**main page**](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/README.md)
 
@@ -9,10 +9,9 @@ A new site, described in *Nature Ecology & Evolution*, was discovered in the Ser
     
 Having a greater understanding of how tool use changes over time for capuchins could provide insite on how early humans used tools.
 
-  * [Using Technology to Study Primate Cognition](https://www.lpzoo.org/science-project/using-technology-to-study-primate-cognition/)
-  * [Six Talking Apes](https://www.smithsonianmag.com/science-nature/six-talking-apes-48085302/)
-  * [Why Koko the Gorilla Mattered](https://www.nationalgeographic.com/animals/article/gorillas-koko-sign-language-culture-animals)
-
 ------------
 ## **Sources**
-Greshko, Michael. “These Monkeys Are 3,000 Years into Their Own 'Stone Age'.” Science, National Geographic, 3 May 2021, https://www.nationalgeographic.com/science/article/capuchin-monkeys-used-stone-tools-3000-years-oldest-outside-africa. 
+* [These monkeys are 3,000 years into their own 'Stone Age'](https://www.nationalgeographic.com/science/article/capuchin-monkeys-used-stone-tools-3000-years-oldest-outside-africa)
+* [Using Technology to Study Primate Cognition](https://www.lpzoo.org/science-project/using-technology-to-study-primate-cognition/)
+* [Six Talking Apes](https://www.smithsonianmag.com/science-nature/six-talking-apes-48085302/)
+* [Why Koko the Gorilla Mattered](https://www.nationalgeographic.com/animals/article/gorillas-koko-sign-language-culture-animals)
