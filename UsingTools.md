@@ -1,9 +1,8 @@
 # **Tool Use**
 
-link back to [**main page**](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/README.md)
+link back to the [**main page**](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/README.md)
 
-## Intro?
-my thoughts blah blah
+Primates are extremely intelligent and there have been records showing tool use for several thousand years around the world. A large part of what benefitted humans is their ability to use tools to *"work smarter, not harder"*. The article summarized below reveals a newly discovered archaeological site showing differing tools as well as evidence of different foods being consumed by capuchin monkeys over time. This might show us ways that early hominids used tools and how that tool use changed as they evolved.
 
 ## **Summary of “These Monkeys Are 3,000 Years into Their Own 'Stone Age'”:**
 A new site, described in *Nature Ecology & Evolution*, was discovered in the Serra da Capivara National Park in Brazil. A record of capuchin monkey tool-use has been discovered dating back 3,000 years. This discovery makes the site the oldest archaeological site of non-human tool use outside of the African continent. While there are older sites in Africa, the site in Serra da Capivara shows variations over time in the shape of the tools, which suggests the capuchins adapted their tools to the foods they were eating.
@@ -22,8 +21,9 @@ Some extra facts from the article:
 * Several birds also use tools
 * Chimpanzees have used 'spears' to hunt small mammals
 
-## Conclustion?
-my thoughts blah blah
+## Conclustions:
+
+While it is not clear if the capuchins have altered their stones on purpose or not, it is clear that they have been using these tools for thousands of years and for various different foods. It's also unclear if this will develop into cutting with stones or other developments, but still allows us to have a better understanding of our ancient ancestors and what life may have been like for them.
 
 ------------
 ## **Source Article:**
