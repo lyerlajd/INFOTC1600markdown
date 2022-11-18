@@ -13,3 +13,7 @@ list of 'Using Tools' checked sources:
   * [Using Technology to Study Primate Cognition](https://www.lpzoo.org/science-project/using-technology-to-study-primate-cognition/)
   * [Six Talking Apes](https://www.smithsonianmag.com/science-nature/six-talking-apes-48085302/)
   * [Why Koko the Gorilla Mattered](https://www.nationalgeographic.com/animals/article/gorillas-koko-sign-language-culture-animals)
+
+------------
+## **Sources**
+[@Greshko, Michael. “These Monkeys Are 3,000 Years into Their Own 'Stone Age'.” Science, National Geographic, 3 May 2021, https://www.nationalgeographic.com/science/article/capuchin-monkeys-used-stone-tools-3000-years-oldest-outside-africa. ]
