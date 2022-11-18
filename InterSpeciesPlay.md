@@ -2,9 +2,7 @@
 
 [main page](https://github.com/lyerlajd/INFOTC1600markdown/blob/main/README.md)
 
-## Introduction?
-
-my thoughts blah blah
+It is known that many animals have some sort of ability to communicate with each other, but using actual language is a different story. The article this page summarizes introduces six different apes who learned some form of language to where they could communicate with humans. This allows us as humans to have a deeper understanding of the intelligence of apes, and more broadly primates as a whole.
 
 ## **Summary of “Six Talking Apes”:**
 
@@ -32,8 +30,9 @@ Koko was a gorilla, and is probably the most famous ape to have learned sign lan
 
 Kanzi is a bonobo who learned to communicate using lexigrams instead of sign language. Scientists were trying to teach Kanzi's mom, but it was Kanzi who ended up picking it up. She understand some spoken English and knows around 400 symbols.
 
-## Conclustion?
-my thoughts blah blah
+## Conclustions
+
+It is clear that there has been success teaching some apes to be able to communicate with humans, but it is not clear what the extent of their capabilities are. Many changed from a home environment to a lab, or had their life cut short by medical complications. The teaching of sign language from one ape to another is also quite fascinating as societies can learn and grow together. Maybe apes would grow more intelligent by being able to communicate with humans and each other through sign language or lexigrams. It is also likely that we will be able to learn more about how human language developed.
 
 ------------
 ## **Source Article:**
