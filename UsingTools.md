@@ -10,11 +10,17 @@ A new site, described in *Nature Ecology & Evolution*, was discovered in the Ser
 
 ![](https://images.newscientist.com/wp-content/uploads/2016/07/11160047/gettyimages-485848365.jpg?width=778)
 
-Image from [Monkey stone tools in Brazil pre-date discovery of Americas](https://www.newscientist.com/article/2096664-monkey-stone-tools-in-brazil-pre-date-discovery-of-americas/)
+Image rights belong to: [Monkey stone tools in Brazil pre-date discovery of Americas](https://www.newscientist.com/article/2096664-monkey-stone-tools-in-brazil-pre-date-discovery-of-americas/) 
 
 >"What is really interesting about the ability to conduct archaeological excavations on primate tool-use sites is that we as a species are not unique in having a   really fine-grained and detailed archaeological record,” says study coauthor Tomos Proffitt, a postdoctoral fellow at University College London. “This capuchin     excavation shows that this species of primate in Brazil has its own individual archaeological record; they have their own antiquity to their tool use.”
     
-Having a greater understanding of how tool use changes over time for capuchins could provide insite on how early humans used tools.
+Having a greater understanding of how tool use changes over time for capuchins could provide insite on how early humans used tools. Around 3.3 million years ago, hominids used chiseled pieces of rock as tools, but it is hypothesized that they used stones, similarly to how the capuchin monkeys in the Serra da Capivara do now, to process food. The capuhcins use stones to break open cashews.
+
+While the stones have changed sizes and even the foods the capuchins eat have varied, not all of the researchers believe this shows signs of advancement. It is stressed that while capuchins can use stones as tools, they still have not made some of the major advancements hominids did like using thin pieces of stone to cut things.
+
+Some extra facts from the article:
+    * Several birds also use tools
+    * Chimpanzees have used 'spears' to hunt small mammals
 
 ## **Summary of “Using Technology to Study Primate Cognition”:**
 
